@@ -1,2 +1,2 @@
 # TicTacToe
-used java and OoPs
+Used Oops and java concepts
